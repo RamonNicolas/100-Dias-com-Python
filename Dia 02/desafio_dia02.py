@@ -15,7 +15,7 @@ OBS: Sempre que acontecer um abastecimento é necessário atualizar a quantidade
 '''
 
 
-class bombaCombustível():
+class bombaCombustivel():
 
     def __init__(self):
         self.valor_litro = self.valor_litro()
@@ -98,4 +98,4 @@ class bombaCombustível():
         else:
             exit()
 
-posto = bombaCombustível()
+posto = bombaCombustivel()
