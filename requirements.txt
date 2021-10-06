@@ -1,0 +1,5 @@
+install flask_script_extras
+install flask_script
+install flask
+install flask_sqlalchemy
+install 
