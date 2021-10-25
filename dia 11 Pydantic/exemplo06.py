@@ -4,6 +4,7 @@ from typing import Literal, Union
 class TestConfig(BaseSettings):
     env: Literal['test']
     xpto: str = 'Meu ambiente de test'
+    database_url: str = Field(env='database_url')
 
 class ProdConfig(BaseSettings):
     env: Literal['prod']
