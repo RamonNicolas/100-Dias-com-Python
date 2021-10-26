@@ -2,12 +2,12 @@
 ## Estrutura 
 ## match subject:
 ###     case <padrão_1>:
-###         <ação>
+####         <ação>
 ###     case <padrão_2>:
-###         <ação>
+####         <ação>
 ###     case <padrão_3>:
-###         <ação>
+####        <ação>
 ###     case _:
-###         <ação coringa>
+####         <ação coringa>
 ## Não me importa se esse elemento é um inteiro, uma string, uma outra lista
 ## O '|' funciona como "or" 
