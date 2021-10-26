@@ -9,5 +9,5 @@
 ###         <ação>
 ###     case _:
 ###         <ação coringa>
-## """Não me importa se esse elemento é um inteiro, uma string, uma outra lista"""
-## O | funciona como "or" 
+## Não me importa se esse elemento é um inteiro, uma string, uma outra lista
+## O '|' funciona como "or" 
