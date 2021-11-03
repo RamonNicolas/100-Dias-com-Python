@@ -19,6 +19,6 @@ cor1 = (255,255,255,255)
 match cor1:
     # Nomenclatura para as variáveis
     case [r,g,b]:
-        print(f'{r=},{g=},{b=}') #cor
+        print(f'{r=},{g=},{b=}') # cor
     case r,g,b,a:
-        print(f'{r=},{g=},{b=},{a=}') #cor1
+        print(f'{r=},{g=},{b=},{a=}') # cor1
