@@ -1,0 +1,14 @@
+[
+  "tests/tests_quadro.py::test_existe_um_quadro",
+  "tests/tests_quadro.py::test_quando_inserir_duas_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests/tests_quadro.py::test_quando_inserir_fazendo_deve_estar_no_quadro",
+  "tests/tests_quadro.py::test_quando_inserir_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests/tests_quadro.py::test_quando_inserir_uma_coluna_deve_existir_uma_coluna",
+  "tests/tests_quadro.py::test_quando_inserir_uma_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests/tests_quadros.py::test_existe_um_quadro",
+  "tests/tests_quadros.py::test_quando_inserir_duas_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests/tests_quadros.py::test_quando_inserir_fazendo_deve_estar_no_quadro",
+  "tests/tests_quadros.py::test_quando_inserir_uma_coluna_deve_existir_uma_coluna",
+  "tests/tests_quadros.py::test_quando_inserir_uma_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests/tests_quadros.py::test_quando_mover_cartao_coluna_next"
+]

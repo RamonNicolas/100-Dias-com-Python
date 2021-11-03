@@ -1,0 +1,4 @@
+{
+  "tests_quadro.py::test_quando_inserir_fazendo_deve_estar_no_quadro": true,
+  "tests_quadro.py::test_quando_inserir_fazendo_ela_deve_estar_no_quadro": true
+}

@@ -1,0 +1,21 @@
+[
+  "test_coluna.py::teste_coluna_deve_ter_um_nome",
+  "tests.py::test_existe_um_quadro",
+  "tests.py::test_quando_inserir_a_fazer_ela_deve_estar_no_quadro",
+  "tests.py::test_quando_inserir_uma_coluna_deve_existir_uma_coluna",
+  "tests_quadro.py::test_existe_um_quadro",
+  "tests_quadro.py::test_quando_inserir_a_fazer_ela_deve_estar_no_quadro",
+  "tests_quadro.py::test_quando_inserir_fazendo_deve_estar_no_quadro",
+  "tests_quadro.py::test_quando_inserir_fazendo_ela_deve_estar_no_quadro",
+  "tests_quadro.py::test_quando_inserir_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests_quadro.py::test_quando_inserir_uma_coluna_deve_existir_uma_coluna",
+  "tests_quadros.py::test_exemplo",
+  "tests_quadros.py::test_existe_um_quadro",
+  "tests_quadros.py::test_passando_parametros[quadro_parametrizado0]",
+  "tests_quadros.py::test_quando_inserir_duas_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests_quadros.py::test_quando_inserir_fazendo_deve_estar_no_quadro",
+  "tests_quadros.py::test_quando_inserir_uma_coluna_deve_existir_uma_coluna",
+  "tests_quadros.py::test_quando_inserir_uma_tarefa_ela_deve_estar_na_primeira_coluna",
+  "tests_quadros.py::test_quando_mover_cartao_coluna_next",
+  "tests_quadros.py::test_quando_mover_cartao_coluna_remover_anterior"
+]
