@@ -1,5 +1,5 @@
 from airflow import DAG
-from airflow.operators.bash.operator import BashOperator
+from airflow.operators.bash import BashOperator
 from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
 
@@ -33,8 +33,11 @@ t3 = BashOperator(
     params={"my_param": "Parameter I passed IN"},
     dag=dag,
 )
+
+
 def print_mensagem_ramon():
     print("Fala DEVERS")
+
 
 t4 = PythonOperator(
     task_id="live_python",
@@ -45,4 +48,4 @@ t4 = PythonOperator(
 # t2.set_upstream(t1)
 # t3.set_upstream(t1)
 
-t1 >> [t2,t3] >> t4
+t1 >> [t2, t3] >> t4
