@@ -13,3 +13,4 @@ def hello_world ():
 
 
 app.include_router(a_fazer_router, prefix='/a-fazer', tags= ['todo'])
+
